@@ -8,10 +8,6 @@ to start to implement that and learn in short time, supportive with other teams 
 
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
-<!--
-**EslamAbotaleb/EslamAbotaleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I have apps avaiable on app store and google play :
