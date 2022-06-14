@@ -3,7 +3,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/eslam-abotaleb-507a36b9/)
 
-I am a senior software engineer - mobile-specific native ios and flutter, always researching for what the new technology within mobile
+I am a senior software engineer - mobile (native ios and flutter), always researching for what the new technology within mobile
 to start to implement that and learn in short time, supportive with other teams to reach the perfect output to serve users in apps.
 
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
