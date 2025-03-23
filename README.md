@@ -3,8 +3,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/eslam-abotaleb-507a36b9/)
 
-I am a senior software engineer - mobile (native ios and Flutter), always researching for what new technology within mobile
-to start to implement that and learn in a short time, supportive with other teams to reach the perfect output to serve users in apps.
+I am a Senior Software Engineer with extensive experience in developing high-quality, scalable mobile applications for both native iOS and Flutter. I have worked on a diverse range of apps across various domains, including live streaming, payment systems, elastic search, dynamic forms, sports, dating, e-commerce, and more. I am always eager to explore new technologies and learn new skills, which has led to a broad and versatile skill set. My diverse experience spans multiple types of applications, allowing me to tackle a variety of complex challenges in mobile development.
 
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
