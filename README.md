@@ -14,12 +14,6 @@ I have a proven track record of successfully delivering projects that meet user 
 - **Cross-platform Development**: Focused on delivering high-performance **cross-platform solutions** using Flutter, enabling seamless deployment across Android and iOS platforms.
 - **App Architecture**: Implementing scalable and maintainable architecture, following best practices in mobile development like MVC, MVVM, and Clean Architecture.
 
-### 📱 Featured Apps:
-- 🔭 **KolYoumAya**: [App Store Link](https://appadvice.com/app/d9-83-d9-84-d9-8a-d9-88-d9-85-d8-a2-d9-8a-d8-a9/1555502499#google_vignette)
-- 🔭 **SportEyeStore**: [App Store Link](https://appadvice.com/app/sporteye-store/1519001573)
-- 🔭 **iTop-app**: [App Store Link](https://apps.apple.com/us/app/itop-app/id1468070816)
-- **Currently working on**: Developing an advanced **Live Streaming App** for real-time engagement and interaction.
-
 ### 🧠 Skills:
 - **Languages**: Swift, Dart, Kotlin, Java, Objective-C, JavaScript
 - **Frameworks & Tools**: 
