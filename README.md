@@ -39,6 +39,8 @@ I have a proven track record of successfully delivering projects that meet user 
 - Flutter and Dart
 - Mobile app architecture and performance optimization
 - Integrating third-party APIs and services
+- Dynamic Form
+- Elastic Search 
 - Building scalable backend solutions for mobile apps
 
 ### 📫 How to Reach Me:
