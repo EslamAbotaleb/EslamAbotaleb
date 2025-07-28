@@ -50,4 +50,11 @@ I have a proven track record of successfully delivering projects that meet user 
 - Avid fan of open-source and always looking to contribute to projects I care about.
 - Love learning new languages, both human and programming.
 
+### Some Apps From My Work:-
+1. https://apps.apple.com/eg/app/mcan/id1607838344
+2. https://apps.apple.com/eg/app/%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9/id1589857697
+3. https://apps.apple.com/eg/app/rehadox/id1639795376
+4. https://apkpure.com/chefs-tv/com.arabdt.chefs.tv
+5. https://apps.apple.com/us/app/itop-app/id1468070816
+
 ---
