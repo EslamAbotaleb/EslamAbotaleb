@@ -45,6 +45,7 @@ I have a proven track record of successfully delivering projects that meet user 
 
 ### 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/eslam-abotaleb-507a36b9/)
+- [Portfolio](https://eslamabotaleb.github.io/EslamAbotaleb) 
 - Email: eslam.abotaleb@example.com (replace with your actual email)
 
 ### 🎯 Fun Facts:
