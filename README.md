@@ -2,6 +2,7 @@
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/eslam-abotaleb-507a36b9/)
+[<img src="https://img.shields.io/badge/Portfolio-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white">](https://eslamabotaleb.github.io/EslamAbotaleb)
 
 I am a Senior Software Engineer with extensive experience in developing high-quality, scalable mobile applications for both native iOS and Flutter. Over the years, I have worked on a wide variety of apps in different domains such as live streaming, payment systems, elastic search, dynamic forms, sports, dating, e-commerce, and more. I am passionate about exploring new technologies and tools, constantly learning and evolving my skill set.
 
